@@ -57,8 +57,8 @@ export const products: Product[] = [
       "Built-in catch container to keep counters mess-free",
       "Easy to clean, dishwasher safe, and BPA-free",
     ],
-    amazonIN: "https://link.amazon/B01ehXD8E",
-    amazonUS: "https://link.amazon/B01SzEsuL",
+    amazonIN: "https://link.amazon/B01kfOL0x",
+    amazonUS: "https://link.amazon/B03hGIhue",
   },
   {
     id: "veg-chopper-pro",
