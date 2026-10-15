@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  color: #efeadf;
+  font-family: "Manrope", system-ui, -apple-system, sans-serif;
+}
+
+::selection {
+  background: #d4af37;
+  color: #000;
+}
