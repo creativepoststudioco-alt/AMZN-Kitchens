@@ -44,6 +44,23 @@ const img = (id: number, ext: "jpeg" | "png" = "jpeg") =>
 
 export const products: Product[] = [
   {
+    id: "fullstar-8-in-1-chopper",
+    name: "Fullstar Pro Original Vegetable Chopper & Mandoline Slicer 8-in-1 Prep Tool",
+    image: "https://m.media-amazon.com/images/I/81KgX4sBaNL._AC_SL1500_.jpg",
+    shortDesc: "All-in-one kitchen gadget to chop, slice, dice, and spiralize effortlessly.",
+    longDesc:
+      "The Fullstar 8-in-1 kitchen food chopper combines versatile chopping, dicing, slicing, and spiralizing functions into one compact tool. Built with heavy-duty stainless steel blades and food-grade materials, it drastically cuts down your meal prep time while keeping your kitchen counter clean and organized.",
+    features: [
+      "8 versatile interchangeable blades for chopping, slicing, and spiralizing",
+      "Heavy-duty rust-resistant stainless steel blades",
+      "Ergonomic design with non-slip base for safe operation",
+      "Built-in catch container to keep counters mess-free",
+      "Easy to clean, dishwasher safe, and BPA-free",
+    ],
+    amazonIN: "https://link.amazon/B01ehXD8E",
+    amazonUS: "https://link.amazon/B01SzEsuL",
+  },
+  {
     id: "veg-chopper-pro",
     name: "5-in-1 Vegetable Chopper Pro",
     image: img(32446431),
