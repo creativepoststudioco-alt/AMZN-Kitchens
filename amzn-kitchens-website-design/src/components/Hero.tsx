@@ -27,7 +27,7 @@ export default function Hero({ onExplore }: { onExplore: () => void }) {
           </h1>
 
           <p className="mx-auto mt-5 max-w-xl text-base leading-relaxed text-[#A39E93] sm:text-lg lg:mx-0">
-            See clever kitchen gadgets and everyday essentials that make life
+            Explore clever kitchen gadgets and everyday essentials that make life
             easier.
           </p>
 
