@@ -44,6 +44,23 @@ const img = (id: number, ext: "jpeg" | "png" = "jpeg") =>
 
 export const products: Product[] = [
   {
+    id: "yarramate-oil-sprayer",
+    name: "YARRAMATE 16 oz Dark Glass Olive Oil Sprayer & Dispenser, 2-in-1, Black",
+    image: "https://m.media-amazon.com/images/I/71QUpGbXrWL._AC_SL1500_.jpg",
+    shortDesc: "2-in-1 olive oil sprayer and dispenser for healthy, controlled cooking.",
+    longDesc:
+      "A premium 16 oz dark glass oil sprayer and dispenser that gives you the flexibility to either spray a fine mist or pour oil cleanly. The dark glass bottle protects your olive oil from harmful UV light, keeping it fresh for longer while cutting down on unnecessary calories and oil usage.",
+    features: [
+      "2-in-1 design: switch easily between oil spraying and pouring",
+      "16 oz capacity made from thick, durable dark glass",
+      "Protects oil from sunlight degradation and oxidation",
+      "Ergonomic pump handle for a fine, even mist",
+      "Leak-proof seal to keep your countertops clean and mess-free",
+    ],
+    amazonIN: "https://link.amazon/B08Yjt94Z",
+    amazonUS: "https://link.amazon/B0fo9Y0Hy",
+  },
+  {
     id: "fullstar-8-in-1-chopper",
     name: "Fullstar Pro Original Vegetable Chopper & Mandoline Slicer 8-in-1 Prep Tool",
     image: "https://m.media-amazon.com/images/I/81KgX4sBaNL._AC_SL1500_.jpg",
@@ -57,8 +74,8 @@ export const products: Product[] = [
       "Built-in catch container to keep counters mess-free",
       "Easy to clean, dishwasher safe, and BPA-free",
     ],
-    amazonIN: "https://link.amazon/B01kfOL0x",
-    amazonUS: "https://link.amazon/B03hGIhue",
+    amazonIN: "https://link.amazon/B01ehXD8E",
+    amazonUS: "https://link.amazon/B01SzEsuL",
   },
   {
     id: "veg-chopper-pro",
